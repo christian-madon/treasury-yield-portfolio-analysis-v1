@@ -1,4 +1,4 @@
-# CIO Macro Review — first milestone snapshot
+# Treasury Yield Portfolio Analysis — first milestone snapshot
 
 A Python learning project that asks: **How would a change in Treasury yields affect a small fixed-rate bond portfolio?**
 
