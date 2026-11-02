@@ -1,0 +1,54 @@
+{
+  "title": "CIO Macro Review — first milestone snapshot",
+  "milestone": "P013",
+  "snapshot_date": "2026-11-01",
+  "timezone": "America/New_York",
+  "prepared_at": "2026-11-01T22:31:34-05:00",
+  "development_checkpoint": "f6e097645c65dcc8cab84287c71919a7aec396b4",
+  "last_main_py_checkpoint": "0a230142197f52d56212390fa875e9e201bfa631",
+  "financial_program_rerun_for_publication": false,
+  "p013_final_independent_verification": "PENDING at selected frozen checkpoint",
+  "excel_export_included": false,
+  "files": {
+    ".gitignore": {
+      "bytes": 66,
+      "sha256": "c5a401d5f5c781da6863101bf4033e18cb72421bcb2e05e1fef35abdb7dbafdc"
+    },
+    "README.md": {
+      "bytes": 4176,
+      "sha256": "405eb6b9ab074917533e4b3a0ccef660fbc64aa2f8cea7c03b26cb7251a9d424"
+    },
+    "assets/overview.png": {
+      "bytes": 317017,
+      "sha256": "333304d4c661074904e3742c734400b6ec5887529f0c67d17ac562fe7b06d6f3"
+    },
+    "data/raw/README.md": {
+      "bytes": 2637,
+      "sha256": "25cc6e670999349e6d61180926c943f02c79f2a2568825ce2247192c8e8030d8"
+    },
+    "data/raw/synthetic_portfolio.xlsx": {
+      "bytes": 9328,
+      "sha256": "11b481dfe9c1b8acc1ca1be6c9cf0c433a678093600cde80b5bf997ae553040a"
+    },
+    "data/raw/treasury_yields_2026.csv": {
+      "bytes": 16958,
+      "sha256": "04ff6da859cf8d7a98c239b67d462ab213f47e7fca657ded34319c383c5b41c3"
+    },
+    "docs/PROGRESS.md": {
+      "bytes": 2488,
+      "sha256": "9352035c7901af3805e0e1a91211f10629de56434131fc2accad1bbc12769d7f"
+    },
+    "docs/VERIFICATION.md": {
+      "bytes": 1751,
+      "sha256": "436184b2f06f96740e888effb746285bb988b3c45e1a899bb7e1c3a12a305718"
+    },
+    "main.py": {
+      "bytes": 64482,
+      "sha256": "25360ffedcd8dfbb2c22c40b6d12ed5e9cd249c26db75654a160edfb4e65ea2d"
+    },
+    "requirements.txt": {
+      "bytes": 35,
+      "sha256": "f87a8feb3f926e287f70f3362924837adaaf1e23681238e3b7d388b63fa377cf"
+    }
+  }
+}
